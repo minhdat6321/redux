@@ -1,3 +1,6 @@
+Netlify: https://master3--practiceredux1.netlify.app/
+
+
 # Intro to Redux exercise
 
 - Clone the repo and setup the project with `npm install`
